@@ -1,2 +1,2 @@
 # first-repo
-thiw is my ifrst
+this is my first(code in git)
